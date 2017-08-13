@@ -1,3 +1,8 @@
+## 2.7.0
+- Add Business
+- Add Credit card numbers
+- Add Credit card types
+
 ## 2.6.0
   - Add Polish names [@walerian777]
   - Add Polish addresses [@walerian777]

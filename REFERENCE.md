@@ -30,6 +30,7 @@
  * [FFaker::BaconIpsum](#ffakerbaconipsum)
  * [FFaker::Book](#ffakerbook)
  * [FFaker::Boolean](#ffakerboolean)
+ * [FFaker::Business](#ffakerbusiness)
  * [FFaker::CheesyLingo](#ffakercheesylingo)
  * [FFaker::Color](#ffakercolor)
  * [FFaker::ColorUA](#ffakercolorua)
@@ -757,6 +758,14 @@
 | `maybe` | false, true, false |
 | `random` | false, true, true |
 | `sample` | false, true, true |
+
+## FFaker::Business
+
+| Method | Example |
+| ------ | ------- |
+| `credit_card_number` | 1234-2121-1221-1211, 1212-1221-1121-1234, 1211-1221-1234-2201, 1228-1221-1221-1431 |
+| `credit_card_expiry_date` | Days, Days, Seconds, Month, Year |
+| `credit_card_type` | visa, mastercard, american_express, discover, diners_club, jcb, switch, solo, dankort, maestro, forbrugsforeningen, laser |
 
 ## FFaker::CheesyLingo
 
